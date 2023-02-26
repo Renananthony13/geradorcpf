@@ -2,7 +2,7 @@
   "name": "modelowebpack",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://renananthony13.github.io/geradorcpf/",
+  "homepage": "geradorcpf/",
   "main": "index.js",
   "scripts": {
     "dev": "webpack -w"
