@@ -683,9 +683,9 @@ console.log('vai se foder')
 var __webpack_exports__ = {};
 // This entry need to be wrapped in an IIFE because it need to be isolated against other modules in the chunk.
 (() => {
-/*!*********************!*\
-  !*** ./src/main.js ***!
-  \*********************/
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_style_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./assets/style/style.css */ "./src/assets/style/style.css");
 /* harmony import */ var _modules_Gera_cpf__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/Gera_cpf */ "./src/modules/Gera_cpf.js");
