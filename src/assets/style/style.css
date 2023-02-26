@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    /* background-color: hsl(217, 19%, 24%); */
+    background-color: hsl(218, 23%, 16%);
+}
+
+.container {
+    max-width: 360px;
+    height: 40vh;
+
+    margin: 30vh auto;
+    background-color: hsl(217, 19%, 24%);
+    border-radius: 15px;
+
+    padding: 1rem;
+    
+}
+
+div h1 {
+    font-weight: 800;
+    margin: 1rem 0rem;
+}
+
+
+div p {
+    font-weight: 600;
+    font-size: 26px;
+    color: hsl(193, 38%, 86%);
+}
+
